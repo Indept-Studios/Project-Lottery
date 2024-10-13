@@ -66,7 +66,7 @@ Es gibt zwei Hauptspielmechaniken:
 ### **8. Spielerfortschritt und Highscores**
 
 -   Der **Spielstand** wird gespeichert (z.B. als JSON-Datei), in der alle wichtigen Informationen wie **Einnahmen, Ausgaben, verkaufte Lose, Gewinne und Bekanntheitsgrad** des Unternehmens gespeichert werden.
--   Das Spiel simuliert ein **Jahr**, wobei jeder Tag 2 Minuten Echtzeit dauert und es pro Woche 5 Arbeitstage gibt.
+-   Das Spiel simuliert ein **Jahr**, wobei jeder Tag 1 Minuten Echtzeit dauert und es pro Woche 5 Arbeitstage gibt.
 -   Nach Abschluss eines Spieljahres wird der Fortschritt des Spielers mit dem vorherigen Spiel verglichen. Dieser Vergleich basiert auf **Kennzahlen** wie:
     -   Gesamtgewinn
     -   Anzahl verkaufter Lose
@@ -85,7 +85,7 @@ Es gibt zwei Hauptspielmechaniken:
 
 ### **10. Schwierigkeit und Herausforderung**
 
--   **Spielzeit**: Ein Jahr Simulation, wobei pro Woche 5 Tage gespielt wird, und jeder Tag dauert 2 Minuten.
+-   **Spielzeit**: Ein Jahr Simulation, wobei pro Woche 5 Tage gespielt wird, und jeder Tag dauert 1 Minuten.
 -   **Spielziele**: Am Ende des Jahres wird der Spieler anhand von Erfolgskennzahlen bewertet (z.B. Gewinne, verkaufte Lose, verlorene Kunden). Jährliche Ziele könnten gesetzt werden, wie z.B. einen Mindestgewinn oder eine bestimmte Kundenzahl zu erreichen.
 
 ----------
