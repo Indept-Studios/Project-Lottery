@@ -29,7 +29,7 @@
 
 **5. Spielbeschreibung:**
 
--   Der Spieler übernimmt die Rolle eines **Losverkäufers**, der zwei Arten von Losen verkauft: Rubellose und 6-aus-49-Lose. Ziel ist es, durch geschicktes Preismanagement und das Anziehen von Kunden möglichst hohe Gewinne zu erzielen und das eigene Geschäft zu erweitern.
+-   Der Spieler übernimmt die Rolle eines **Losverkäufers**, der zwei Arten von Losen verkauft: **Rubellose** und **6-aus-49-Lose**. Ziel ist es, durch geschicktes Preismanagement und das Anziehen von Kunden möglichst hohe Gewinne zu erzielen und das eigene Geschäft zu erweitern.
 
 ----------
 

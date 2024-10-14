@@ -44,8 +44,6 @@ namespace Project_Lottery.BusinessLogic
             }
         }
 
-       
-
         public void EndDay()
         {
             if (dayInPrgogress)
@@ -119,6 +117,16 @@ namespace Project_Lottery.BusinessLogic
         public decimal GetCapital()
         {
             return capital;
+        }
+
+        internal object GetDaySummary()
+        {
+            return null;
+        }
+
+        internal void SimulateTicketSales()
+        {
+
         }
     }
 }
